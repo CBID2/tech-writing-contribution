@@ -1,4 +1,4 @@
-# A guide to contributee to open-soUrce repositoy using git/Github:
+# A guide to contribute to open-source repository using git/GitHub:
 
 Thiss documnt explans how you can forked repo and start work on its. please follow thse steps:
 
