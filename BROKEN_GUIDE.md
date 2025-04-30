@@ -19,4 +19,10 @@ git clon https://github/com/username/repo-name.git
 ```git addd .```
 #### NOTE: don't forget to save the changes before adding or else you will not push what u change
 
-6. 
+6. now write commit message and tell what you did:
+```git commt -m "i fixed some issue maybe or not"```
+
+2. Push to branch but be carefull of name u use:
+```git push -u origin maain```
+
+7. Then go to your github acount and maked a pull rquest to ask to get code in mainn repo (not ur forked).
