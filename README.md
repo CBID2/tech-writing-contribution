@@ -13,20 +13,23 @@ This repository contains a deliberately broken documentation file: `BROKEN_GUIDE
 - Steps out of order
 - Incorrect git branch creation and push commands
 - Ambiguous or unclear language
+- Incomplete guide
+- Missing images for a better explanation
 
 ---
 
-## ✅ How to Contribute
+## ✅ How to Contribute:
 
-1. Fork this repo
-2. Clone it to your local machine
-3. Create a new branch (e.g., `@yourUsername/fix/broken-doc`)
-4. Fix the issues in `BROKEN_GUIDE.md`
-5. Push your changes and open a pull request with a clear commit message
+1. Identify an issue within the `BROKEN_GUIDE.md` and create an issue on this repository.
+2. Fork this repo once the issue is validated and assigned.
+3. Clone it to your local machine.
+4. Create a new branch (e.g., `@yourUsername/fix/broken-doc`).
+5. Fix the issues in `BROKEN_GUIDE.md`.
+6. Push your changes and open a pull request with a clear commit message
 
 ---
 
-## 🧠 Tips
+## 🧠 Tips/resources:
 
 - Follow the [Google Developer Style Guide](https://developers.google.com/style)
 - Refer to Git/GitHub command guide (https://medium.com/@pranitb10/contributing-to-open-source-a-beginners-guide-to-making-pull-requests-and-mastering-7e2d58613dd6)
@@ -41,4 +44,4 @@ This repository contains a deliberately broken documentation file: `BROKEN_GUIDE
 
 Please add suggestions or enhancements to the fixed document (e.g., screenshots, git config tips, PR template basics).
 
-Happy fixing, future technical writers! 💻✍️
+Happy hacking and may the Open-Source be with you! 💻✍️
