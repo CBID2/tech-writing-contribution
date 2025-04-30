@@ -6,7 +6,7 @@ Thiss documnt explans how you can forked repo and start work on its. please foll
 
 1. clone it to ur lapotp by running folowing comman:
 ```
-git clon https://github/com/username/repo-name.git
+git clone https://github/com/username/repo-name.git
 ```
 
 4. Change your path to the folder where you have cloned the repo:
